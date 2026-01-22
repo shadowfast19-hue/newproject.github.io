@@ -90,6 +90,7 @@ const casesData = {
             { name: "★ Karambit  Stained", image: "img/eSports 2013 Case/item eSports Case/★ Karambit  Stained.png", rarity: "rare", price: 37955.22 }
             { name: "★ Karambit  Stained", image: "img/eSports 2013 Case/item eSports Case/★ Karambit  Stained.png", rarity: "rare", price: 37955.22 }
             { name: "★ Karambit  Stained", image: "img/eSports 2013 Case/item eSports Case/★ Karambit  Stained.png", rarity: "rare", price: 37955.22 }
+            { name: "★ Karambit Gamma Doppler Emerald", image: "img/Gamma Case/item Gamma Case/★ Karambit Gamma Doppler Emerald.png", rarity: "rare", price: 55000.00 }
         ]
     }
 };
@@ -1000,4 +1001,5 @@ document.getElementById('caseModal').addEventListener('click', (e) => {
         closeModal();
     }
 });
+
 

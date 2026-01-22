@@ -87,6 +87,9 @@ const casesData = {
             { name: "Tec-9 Rebel", image: "img/Revolution Case/item Revolution Case/Tec-9 Rebel.png", rarity: "industrial", price: 1.40 },
             { name: "AWP Duality", image: "img/Revolution Case/item Revolution Case/AWP Duality.png", rarity: "covert", price: 125.00 },
             { name: "★ Karambit  Stained", image: "img/eSports 2013 Case/item eSports Case/★ Karambit  Stained.png", rarity: "rare", price: 37955.22 }
+            { name: "★ Karambit  Stained", image: "img/eSports 2013 Case/item eSports Case/★ Karambit  Stained.png", rarity: "rare", price: 37955.22 }
+            { name: "★ Karambit  Stained", image: "img/eSports 2013 Case/item eSports Case/★ Karambit  Stained.png", rarity: "rare", price: 37955.22 }
+            { name: "★ Karambit  Stained", image: "img/eSports 2013 Case/item eSports Case/★ Karambit  Stained.png", rarity: "rare", price: 37955.22 }
         ]
     }
 };
@@ -997,3 +1000,4 @@ document.getElementById('caseModal').addEventListener('click', (e) => {
         closeModal();
     }
 });
+

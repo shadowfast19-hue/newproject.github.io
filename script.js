@@ -86,10 +86,8 @@ const casesData = {
             { name: "MP5-SD Liquidation", image: "img/Revolution Case/item Revolution Case/MP5-SD Liquidation.png", rarity: "consumer", price: 0.85 },
             { name: "Tec-9 Rebel", image: "img/Revolution Case/item Revolution Case/Tec-9 Rebel.png", rarity: "industrial", price: 1.40 },
             { name: "AWP Duality", image: "img/Revolution Case/item Revolution Case/AWP Duality.png", rarity: "covert", price: 125.00 },
-            { name: "★ Karambit  Stained", image: "img/eSports 2013 Case/item eSports Case/★ Karambit  Stained.png", rarity: "rare", price: 37955.22 }
-            { name: "★ Karambit  Stained", image: "img/eSports 2013 Case/item eSports Case/★ Karambit  Stained.png", rarity: "rare", price: 37955.22 }
-            { name: "★ Karambit  Stained", image: "img/eSports 2013 Case/item eSports Case/★ Karambit  Stained.png", rarity: "rare", price: 37955.22 }
-            { name: "★ Karambit  Stained", image: "img/eSports 2013 Case/item eSports Case/★ Karambit  Stained.png", rarity: "rare", price: 37955.22 }
+            { name: "★ Karambit  Stained", image: "img/eSports 2013 Case/item eSports Case/★ Karambit  Stained.png", rarity: "rare", price: 37955.22 },
+            { name: "★ Karambit Gamma Doppler Emerald", image: "img/Gamma Case/item Gamma Case/★ Karambit Gamma Doppler Emerald.png", rarity: "rare", price: 55000.00 },
             { name: "★ Karambit Gamma Doppler Emerald", image: "img/Gamma Case/item Gamma Case/★ Karambit Gamma Doppler Emerald.png", rarity: "rare", price: 55000.00 }
         ]
     }
@@ -1001,5 +999,6 @@ document.getElementById('caseModal').addEventListener('click', (e) => {
         closeModal();
     }
 });
+
 
 

@@ -97,8 +97,8 @@ const casesData = {
         items: [
             { name: "SSG 08 | Green Ceramic (Battle-Scarred)", image: "img/Exxilion Case/item Exxilion case/SSG 08  Green Ceramic (Battle-Scarred).png", rarity: "consumer", price: 0.010 },
             { name: "MP9 | Multi-Terrain (Well-Worn)", image: "img/Exxilion Case/item Exxilion case/MP9  Multi-Terrain (Well-Worn).png", rarity: "consumer", price: 0.010 }, 
-            { name: "MP5-SD Liquidation", image: "img/Revolution Case/item Revolution Case/MP5-SD Liquidation.png", rarity: "consumer", price: 0.15 },
-            { name: "Tec-9 Rebel", image: "img/Revolution Case/item Revolution Case/Tec-9 Rebel.png", rarity: "industrial", price: 0.19 },
+            { name: "MP5-SD Liquidation", image: "img/Revolution Case/item Revolution Case/MP5-SD Liquidation.png", rarity: "consumer", price: 0.015 },
+            { name: "Tec-9 Rebel", image: "img/Revolution Case/item Revolution Case/Tec-9 Rebel.png", rarity: "industrial", price: 0.043 },
             { name: "MAC-10 | Allure (Battle-Scarred)", image: "img/Exxilion Case/item Exxilion case/MAC-10  Allure (Battle-Scarred).png", rarity: "restricted", price: 0.47 },
             { name: "AWP Duality", image: "img/Revolution Case/item Revolution Case/AWP Duality.png", rarity: "covert", price: 26.09 },
             { name: "AWP | Dragon Lore (Factory New)", image: "img/Exxilion Case/item Exxilion case/AWP  Dragon Lore (Factory New).png", rarity: "covert", price: 13895.07 },
@@ -1847,3 +1847,4 @@ document.getElementById('caseModal').addEventListener('click', (e) => {
         closeModal();
     }
 });
+
